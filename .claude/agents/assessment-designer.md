@@ -73,6 +73,12 @@ judges. The output must be workable by hand from the stated inputs and from sour
 the source of truth in the key, not only in your head. It is one of: the user's request, a written
 specification, a disclosed test suite, or a later correction.
 
+The stem states the requirement and the evidence. It does not state the verdict. Do not name the
+error type, the right option, or whether later lines ran when that is what the item asks the
+learner to decide. If the exact error message was not captured, do not invent it, and do not paste
+wording from an unsourced `SP-U` entry. Show the code that runs, and record the missing message
+under `GAPS`.
+
 At least one transfer item. Mark it `stretch` and start the stem with `**Transfer.**` It applies
 the module skill to a situation the capstone never covers.
 
